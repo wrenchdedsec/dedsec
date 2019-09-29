@@ -16,8 +16,3 @@
     <thumbnail>https://image.winudf.com/v2/image/Y29tLmdhbWUuZ3VpZGV3YXRjaGRvZzJfc2NyZWVuXzBfMTUxMTA2ODA5N18wODU/screen-0.jpg?fakeurl=1&type=.jpg</thumbnail>
 </dir>
 
-<plugin>
-    <title>DEfalt Place</title>
-    <link>plugin://script.defalt</link>
-    <thumbnail>https://raw.githubusercontent.com/stitches5150/PaddedWalls/master/images/dicon.png</thumbnail>
- </plugin>
